@@ -1,11 +1,1 @@
 theme: minimal-mistakes-jekyll
-
-title: Your Blog Name
-description: A personal blog about coding and life.
-url: "https://mallocfstack.github.io/skills-github-pages"
-baseurl: "/skills-github-pages"
-
-minimal_mistakes_skin: "default" # 可选：default, dark, neon
-
-sidebar:
-  nav: "main"
